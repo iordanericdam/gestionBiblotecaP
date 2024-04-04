@@ -28,7 +28,10 @@ Para utilizar este proyecto, sigue los siguientes pasos:
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Si encuentras errores o tienes sugerencias para mejorar este proyecto, no dudes en abrir un problema o enviar una solicitud de extracción.
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si encuentras errores o tienes sugerencias para mejorar este proyecto, no dudes en abrir un problema (issue) o enviar una solicitud de extracción (pull request).
+
 
 ## Contacto
 
